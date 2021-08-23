@@ -1,0 +1,5 @@
+up,equipment=server 0
+up,equipment=server 1
+uptime,equipment=server,resets=25,test=ddd 4
+uptime_metric,equipment=server,resets=25,test=ddd,tag=test 4
+metric_without_tag 666
